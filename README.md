@@ -1,12 +1,12 @@
-# Exploratory Data Analysis (EDA) Project
+# Telco Churn classification  Project
 
 ## Overview
-This project performs EDA  to uncover patterns, detect anomalies, and summarize key insights.
+In the ever-evolving telecommunication sector, retaining customers and accurately forecasting churn is essential for sustaining growth and profitability. This project seeks to harness advanced classification models to deliver a thorough understanding of customer behaviour for a telecommunication company. The project focuses on:
+
+Churn Prediction: Develop and implement machine learning models to predict which customers are likely to leave the network.
 
 ## Dataset
-- **Source:** practice
-- **Size:** 1000 rows, 5 columns
-- **Description:** just for practice
+
 
 ## Objective
 - Understand data structure and relationships.
